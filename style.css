@@ -1,0 +1,15 @@
+html{
+    background-color: #1a1a1a;
+    color: white;
+    font-family: roboto;
+}
+
+table,th,tr, td{
+    border: 1px solid white;
+    border-collapse: collapse; 
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+}
